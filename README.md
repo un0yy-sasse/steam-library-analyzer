@@ -35,7 +35,7 @@ Hours by genre
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/steam-library-analyzer.git
+git clone https://github.com/un0yy-sasse/steam-library-analyzer.git
 cd steam-library-analyzer
 pip install .
 ```
